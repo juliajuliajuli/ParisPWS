@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <!-- Theme Made By www.w3schools.com -->
   <title>Het Parijsakkoord</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -190,6 +188,7 @@
   }
   </style>
 </head>
+  <!-- Home Page -->
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 
 <nav class="navbar navbar-default navbar-fixed-top">
@@ -205,26 +204,19 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#about">INHOUD AKKOORD</a></li>
-        <li><a href="#services">SERVICES</a></li>
-        <li><a href="#portfolio">PORTFOLIO</a></li>
-        <li><a href="#pricing">PRICING</a></li>
-        <li><a href="#contact">CONTACT</a></li>
+        <li><a href="#services">DE VS ERUIT</a></li>
+        <li><a href="#portfolio">KANS OP VERLATEN</a></li>
+        <li><a href="#pricing">INTERNATIONALE BETREKKINGEN</a></li>
+        <li><a href="#contact">TOEKOMST AKKOORD</a></li>
       </ul>
     </div>
   </div>
 </nav>
 
 <div class="jumbotron text-center">
-  <h1>Company</h1> 
-  <p>We specialize in blablabla</p> 
-  <form>
-    <div class="input-group">
-      <input type="email" class="form-control" size="50" placeholder="Email Address" required>
-      <div class="input-group-btn">
-        <button type="button" class="btn btn-danger">Subscribe</button>
-      </div>
-    </div>
-  </form>
+  <h1>PWS - Het Parijsakkoord</h1> 
+  <p>Door Julia Hoevenaar</p> 
+  <p>Wat is het effect van het uitreden uit het Parijskoord door de VS op de toekomst van het akkoord en de internationale betrekkingen?</p>
 </div>
 
 <!-- Container (About Section) -->
