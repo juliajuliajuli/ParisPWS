@@ -203,7 +203,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about">HOOFDSTUK 1</a></li>
+        <li><a href="#hoofdstuk1">HOOFDSTUK 1</a></li>
         <li><a href="#services">HOOFDSTUK 2</a></li>
         <li><a href="#portfolio">HOOFDSTUK 3</a></li>
         <li><a href="#pricing">HOOFDSTUK 4</a></li>
@@ -220,16 +220,22 @@
 </div>
 
 <!-- Container (About Section) -->
-<div id="about" class="container-fluid">
+<div id="hoofdstuk1" class="container-fluid">
   <div class="row">
     <div class="col-sm-8">
-      <h2>About Company Page</h2><br>
-      <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <br><button class="btn btn-default btn-lg">Get in Touch</button>
+      <h2>Inhoud van het Parijsakkoord</h2><br>
+      <p>Om te begrijpen wat het effect is van het verlaten van het Parijsakkoord door de VS is het belangrijk om te bekijken wat er in het akkoord zelf staat en hoe het in elkaar zit. In dit hoofdstuk behandel ik de totstandkoming van het akkoord, de algemene inhoud van het akkoord, de binding van de afspraken en kritiek die erop is gekomen.</p><br>
+      <h4>§1 – De totstandkoming van het Klimaatakkoord van Parijs</h4>
+      <br></br>
+    <p>Het klimaatakkoord van Parijs is een overeenkomst van het UNFCCC. Het UNFCCC, wat staat voor United Nations Framework Convention on Climate Change, is een raamverdrag dat werd 1992 werd ondertekend onder de verantwoordelijkheid van de Verenigde Naties. Momenteel zijn 197 landen lid van het raamverdrag. Het doel van het UNFCCC is om de uitstoot van broeikasgassen te beperken en de ongewenste gevolgen van klimaatverandering te voorkomen. Het klimaatakkoord van Parijs, maar bijvoorbeeld ook het Kyotoprotocol vallen onder het UNFCCC. 
+Van 30 november tot 11 december, 2015 vond de jaarlijkse COP, Conference of Parties, plaats in Parijs. Elk jaar wordt daar gesproken over klimaatverandering door alle 197 leden van het UNFCCC. Het doel in Parijs was om met alle landen tot een bindend akkoord te komen wat ervoor moest zorgen dat de gemiddelde temperatuur op aarde niet zou stijgen tot 2.0°C ten opzichte van voor de industriële revolutie. 
+Het akkoord dat men in Parijs wou sluiten, moest het Kyotoprotocol vervangen. Dit akkoord was namelijk gesloten in 1997 en was legaal bindend. Een probleem was dat de twee landen die het meeste broeikassen uitstootten, China en de VS, niet meededen. China was niet gebonden aan het Kyotoprotocol, omdat het toentertijd nog gezien werd als een ontwikkelingsland en de VS gebruikte dit als excuus om zich ook niet aan het protocol te houden. Als China, de grootste uitstoter van broeikasgassen niet mee hoefde te doen, dan de VS ook niet. 
+Op de COP18 van 2012 in Qatar werd besloten om het Kyotoprotocol te verlegen tot 2020, maar een nieuw, bindend akkoord te sluiten in 2015. Het Kyotoprotocol was immers redelijk ineffectief geworden door de absentie van de twee grootste uitstoters van broeikasgassen. Alle landen, ook diegene die niet deelnamen aan het Kyotoprotocol, moesten gaan deelnemen aan dit nieuwe akkoord. Voor de COP in Parijs moesten alle landen INDC’s (Intended Nationally Determined Contributions) indienen. Dit waren de plannen die elk land voor zichzelf had gemaakt om te zorgen voor minder uitstoot van broeikasgassen. De onderhandelingen op de COP21 in Parijs gingen niet bepaald soepel. Een van de lastigste onderwerpen was het financieren van alle maatregelen en hoeveel de ontwikkelde landen en LDC’s (Less-Developed Countries) moesten gaan betalen. Na twee weken van vergaderen werd uiteindelijk een akkoord gesloten op 12 december. Het Parijs-akkoord moest ervoor gaan zorgen dat de temperatuur niet hoger zou worden dan 2.0°C, maar er werd hard gewerkt om de opwarming tot 1.5°C te beperken. Deze grens van 1.5°C werd gesteld na onderzoek van het UNFCCC. Uit hun onderzoek werd duidelijk dat meerdere landen, waaronder veel kleine eilanden, te veel negatieve effecten van klimaatverandering zouden ondervinden bij een opwarming van 2.0°C. 
+De ontwikkelde landen kregen de verantwoordelijkheid om de LDC’s te helpen met de financiering van hun maatregelen. De LDC’s moesten hun best doen om duurzaam te ontwikkelen, terwijl de ontwikkelde landen volledig moesten focussen op het behalen van hun doelen. De verantwoordelijkheid van de ontwikkelde landen was dus erg groot. 
+</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-signal logo"></span>
+      <span class="glyphicon glyphicon-folder-open"></span>
     </div>
   </div>
 </div>
