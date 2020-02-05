@@ -238,11 +238,11 @@
 <!-- Hoofdstuk 2 -->
 <div id="hoofdstuk2" class="container-fluid">
   <div class="row">
-    <div class="col-sm-4 bg-grey">
+    <div class="col-sm-4 bg-warning">
        <img class="img-responsive" src="https://s.abcnews.com/images/Politics/paris-agreement-01-ap-jrl-180531_hpMain_4x5_992.jpg" alt="Trump speech over klimaatakkoord"><br><br><br>
       <img class="img-responsive" src="https://cloudinary.cagle.com/image/upload/w_600/cartoons/191175.png" alt="Trump cartoon klimaatakkoord">
     </div>
-    <div class="col-sm-8 bg-grey">
+    <div class="col-sm-8 bg-warning">
       <h2>Waarom verlaat de VS het Parijsakkoord?</h2>
       <h4>Op 1 juni 2017 maakte Trump bekent dat de VS het klimaatakkoord van Parijs zou verlaten. Trump zei over deze beslissing dat hij het had besloten ‘om zijn plicht te vervullen de burgers van de Verenigde Staten te beschermen.’ Verder liet hij weten dat hij er open voor stond om over het akkoord te onderhandelen, maar de UNFCCC liet weten dat er geen onderhandeling gestart kunnen worden door een enkele deelnemer van het akkoord. Daarnaast bekritiseerde Trump het Green Climate Fund en noemde het een manier om rijkdom van de rijkere naar de armere landen te verplaatsen. In dit hoofdstuk ga ik op zoek naar de redenen van Trump’s beslissing. Er zijn namelijk 
 meerdere redenen die hebben geleid tot zijn beslissing. </h4>
