@@ -205,7 +205,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#hoofdstuk1">HOOFDSTUK 1</a></li>
         <li><a href="#hoofdstuk2">HOOFDSTUK 2</a></li>
-        <li><a href="#portfolio">HOOFDSTUK 3</a></li>
+        <li><a href="#hoofdstuk3">HOOFDSTUK 3</a></li>
         <li><a href="#pricing">HOOFDSTUK 4</a></li>
         <li><a href="#contact">HOOFDSTUK 5</a></li>
       </ul>
@@ -234,15 +234,14 @@
   </div>
 </div>
 
-
 <!-- Hoofdstuk 2 -->
 <div id="hoofdstuk2" class="container-fluid">
   <div class="row">
-    <div class="col-sm-4 bg-warning">
+    <div class="col-sm-4">
        <br><img class="img-responsive" src="https://s.abcnews.com/images/Politics/paris-agreement-01-ap-jrl-180531_hpMain_4x5_992.jpg" alt="Trump speech over klimaatakkoord"><br><br><br>
       <img class="img-responsive" src="https://cloudinary.cagle.com/image/upload/w_600/cartoons/191175.png" alt="Trump cartoon klimaatakkoord">
     </div>
-    <div class="col-sm-8 bg-warning">
+    <div class="col-sm-8">
       <h2>Waarom verlaat de VS het Parijsakkoord?</h2>
       <h4>Op 1 juni 2017 maakte Trump bekent dat de VS het klimaatakkoord van Parijs zou verlaten. Trump zei over deze beslissing dat hij het had besloten ‘om zijn plicht te vervullen de burgers van de Verenigde Staten te beschermen.’ Verder liet hij weten dat hij er open voor stond om over het akkoord te onderhandelen, maar de UNFCCC liet weten dat er geen onderhandeling gestart kunnen worden door een enkele deelnemer van het akkoord. Daarnaast bekritiseerde Trump het Green Climate Fund en noemde het een manier om rijkdom van de rijkere naar de armere landen te verplaatsen. In dit hoofdstuk ga ik op zoek naar de redenen van Trump’s beslissing. Er zijn namelijk 
 meerdere redenen die hebben geleid tot zijn beslissing. </h4>
@@ -253,47 +252,20 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
   </div>
 </div>
 
-<!-- Container (Services Section) -->
-<div id="services" class="container-fluid text-center">
-  <h2>SERVICES</h2>
-  <h4>What we offer</h4>
-  <br>
-  <div class="row slideanim">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-off logo-small"></span>
-      <h4>POWER</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+<!-- Hoofdstuk 3 -->
+<div id="hoofdstuk3" class="container-fluid">
+  <div class="row">
+    <div class="col-sm-8">
+      <h2>Kans dat de VS het Parijsakkoord echt verlaat</h2>
+      <h4>Hoewel Trump bekend heeft gemaakt dat hij het Parijs-akkoord wil verlaten, bestaat er nog veel onzekerheid over hoe groot de kans is dat dat echt gebeurt. De uitslag van de verkiezingen van 2020 in de VS kunnen alles nog veranderen. In dit hoofdstuk behandel ik de regels over het verlaten van het Parijs-akkoord, de gevolgen van de uitslag van de volgende verkiezingen en de grootte van de kans dat Trump wordt herkozen. </h4>
+      <p>Als Trump niet wordt herkozen bij de volgende verkiezingen, zal de VS herintreden tot het Parijs-akkoord. Alle tegenstanders van Trump hebben namelijk laten weten dat ze dat van plan zijn als ze de verkiezingen winnen. Over de kans dat Trump de verkiezingen wint is nog weinig te zeggen, omdat de polls dicht bij elkaar liggen. Daarnaast voorspelden de polls in 2016 ook dat Hillary Clinton zou winnen won Trump alsnog.</p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-heart logo-small"></span>
-      <h4>LOVE</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-lock logo-small"></span>
-      <h4>JOB DONE</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
+      <br><img class="img-responsive" src="https://cdn.vox-cdn.com/thumbor/OdBTI43zJk_o0sI9nO39OEo1RSE=/0x0:1501x2790/1200x0/filters:focal(0x0:1501x2790):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12438451/180821_2020_matchup_sidebar.png" alt="Polls 2020 verkiezingen VS">
     </div>
   </div>
-  <br><br>
-  <div class="row slideanim">
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-leaf logo-small"></span>
-      <h4>GREEN</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-certificate logo-small"></span>
-      <h4>CERTIFIED</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-    <div class="col-sm-4">
-      <span class="glyphicon glyphicon-wrench logo-small"></span>
-      <h4 style="color:#303030;">HARD WORK</h4>
-      <p>Lorem ipsum dolor sit amet..</p>
-    </div>
-  </div>
-</div>
+  
+ 
 
 <!-- Container (Portfolio Section) -->
 <div id="portfolio" class="container-fluid text-center bg-grey">
