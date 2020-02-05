@@ -302,8 +302,8 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
       <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
+   
+ <div class="carousel-inner" role="listbox">
       <div class="item active">
         <h4>"This company is the best. I am so happy with the result!"<br><span>Michael Roe, Vice President, Comment Box</span></h4>
       </div>
@@ -315,8 +315,7 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
       </div>
     </div>
 
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
     </a>
@@ -435,33 +434,22 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
 
 <script>
 $(document).ready(function(){
-  // Add smooth scrolling to all links in navbar + footer link
-  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
-    // Make sure this.hash has a value before overriding default behavior
-    if (this.hash !== "") {
-      // Prevent default anchor click behavior
-      event.preventDefault();
-
-      // Store hash
-      var hash = this.hash;
-
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-      $('html, body').animate({
+ $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+   if (this.hash !== "") {
+    event.preventDefault();
+  var hash = this.hash;
+ $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 900, function(){
-   
-        // Add hash (#) to URL when done scrolling (default click behavior)
-        window.location.hash = hash;
+   window.location.hash = hash;
       });
-    } // End if
+    } 
   });
   
   $(window).scroll(function() {
     $(".slideanim").each(function(){
       var pos = $(this).offset().top;
-
-      var winTop = $(window).scrollTop();
+       var winTop = $(window).scrollTop();
         if (pos < winTop + 600) {
           $(this).addClass("slide");
         }
@@ -470,4 +458,4 @@ $(document).ready(function(){
 })
 </script>
 
-</body>
+
