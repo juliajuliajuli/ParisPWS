@@ -224,13 +224,13 @@
   <div class="row">
     <div class="col-sm-8">
       <h2>Inhoud van het Parijsakkoord</h2><br>
-      <p>Om te begrijpen wat het effect is van het verlaten van het Parijsakkoord door de VS is het belangrijk om te bekijken wat er in het akkoord zelf staat en hoe het in elkaar zit. In dit hoofdstuk behandel ik de totstandkoming van het akkoord, de algemene inhoud van het akkoord, de binding van de afspraken en kritiek die erop is gekomen.</p>
+      <h4>Om te begrijpen wat het effect is van het verlaten van het Parijsakkoord door de VS is het belangrijk om te bekijken wat er in het akkoord zelf staat en hoe het in elkaar zit. In dit hoofdstuk behandel ik de totstandkoming van het akkoord, de algemene inhoud van het akkoord, de binding van de afspraken en kritiek die erop is gekomen.</h4>
       <br>
     <p> In het Parijs-akkoord staat samengevat dat alle landen samen moeten werken om er zo voor te zorgen dat de gemiddelde temperatuur niet meer stijgt dan 2.0°C. Hiervoor moeten de landen hun uitstoot van broeikasgassen beperken. De doelen die landen hebben om minder broeikasgassen uit te stoten worden samengevat in NDCs, die landen zelf kunnen bepalen. Het niet nakomen van de beloftes heeft geen consequenties. Het idee is dat landen elkaar door groepsdruk motiveren om hard hun best te doen. Elke 5 jaar wordt gecontroleerd of landen hun NDCs hebben gehaald en moeten ze nieuwe doelen indienen. Ook wordt voor het akkoord een Climate Fund opgezet, waar rijkere landen aan kunnen doneren om zo armere landen te helpen met het behalen van hun doelen. Het Parijs-akkoord is er dus alleen om de doelen te inventariseren, te evalueren en het voor alle landen mogelijk te maken om maatregelen te treffen. De kritiek die op het akkoord is gekomen is onder andere dat het mechanisme zonder bindende consequenties niet werkt, het ontoereikend is om het uiteindelijke doel van maximaal 2.0°C opwarming te behalen, er te weinig richtlijnen zijn rond de NDCs en er niets wordt gezegd over de lucht- en scheepvaart.
 </p>
     </div>
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-folder-open"></span>
+      <img class="img-responsive" src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/04/24195/image1170x530cropped.jpg" alt="Leaders at the COP21">
     </div>
   </div>
 </div>
