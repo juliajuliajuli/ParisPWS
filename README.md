@@ -230,7 +230,7 @@
 </p>
     </div>
     <div class="col-sm-4">
-      <img class="img-responsive" src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/04/24195/image1170x530cropped.jpg" alt="Leaders at the COP21">
+      <img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/2015_Climate_Conference.svg/1200px-2015_Climate_Conference.svg.png" alt="Logo of COP21">
     </div>
   </div>
 </div>
