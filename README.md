@@ -229,7 +229,7 @@
 </p>
     </div>
     <div class="col-sm-4">
-      <img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/2015_Climate_Conference.svg/1200px-2015_Climate_Conference.svg.png" alt="Logo of COP21">
+      <br><img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/2015_Climate_Conference.svg/1200px-2015_Climate_Conference.svg.png" alt="Logo of COP21">
     </div>
   </div>
 </div>
@@ -239,7 +239,7 @@
 <div id="hoofdstuk2" class="container-fluid">
   <div class="row">
     <div class="col-sm-4 bg-warning">
-       <img class="img-responsive" src="https://s.abcnews.com/images/Politics/paris-agreement-01-ap-jrl-180531_hpMain_4x5_992.jpg" alt="Trump speech over klimaatakkoord"><br><br><br>
+       <br><img class="img-responsive" src="https://s.abcnews.com/images/Politics/paris-agreement-01-ap-jrl-180531_hpMain_4x5_992.jpg" alt="Trump speech over klimaatakkoord"><br><br><br>
       <img class="img-responsive" src="https://cloudinary.cagle.com/image/upload/w_600/cartoons/191175.png" alt="Trump cartoon klimaatakkoord">
     </div>
     <div class="col-sm-8 bg-warning">
