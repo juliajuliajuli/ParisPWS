@@ -258,16 +258,14 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
     <div class="col-sm-8">
       <h2>Kans dat de VS het Parijsakkoord echt verlaat</h2>
       <h4>Hoewel Trump bekend heeft gemaakt dat hij het Parijs-akkoord wil verlaten, bestaat er nog veel onzekerheid over hoe groot de kans is dat dat echt gebeurt. De uitslag van de verkiezingen van 2020 in de VS kunnen alles nog veranderen. In dit hoofdstuk behandel ik de regels over het verlaten van het Parijs-akkoord, de gevolgen van de uitslag van de volgende verkiezingen en de grootte van de kans dat Trump wordt herkozen. </h4>
-      <p>Als Trump niet wordt herkozen bij de volgende verkiezingen, zal de VS herintreden tot het Parijs-akkoord. Alle tegenstanders van Trump hebben namelijk laten weten dat ze dat van plan zijn als ze de verkiezingen winnen. Over de kans dat Trump de verkiezingen wint is nog weinig te zeggen, omdat de polls dicht bij elkaar liggen. Daarnaast voorspelden de polls in 2016 ook dat Hillary Clinton zou winnen won Trump alsnog.</p>
+      <p>Het duurt veel langer om het Parijs-akkoord te verlaten dan om het toe te treden of weer te herintreden. Uitreden uit het akkoord kan pas 3 jaar nadat het akkoord in werking is getreden en dan is er ook nog een verwerkingstijd van 1 jaar. Toetreden of herintreden kan in slechts 30 dagen. Als Trump niet wordt herkozen bij de volgende verkiezingen, zal de VS herintreden tot het Parijs-akkoord. Alle tegenstanders van Trump hebben namelijk laten weten dat ze dat van plan zijn als ze de verkiezingen winnen. Over de kans dat Trump de verkiezingen wint is nog weinig te zeggen, omdat de polls dicht bij elkaar liggen. Daarnaast voorspelden de polls in 2016 ook dat Hillary Clinton zou winnen won Trump alsnog.</p>
     </div>
     <div class="col-sm-4">
       <br><img class="img-responsive" src="https://cdn.vox-cdn.com/thumbor/OdBTI43zJk_o0sI9nO39OEo1RSE=/0x0:1501x2790/1200x0/filters:focal(0x0:1501x2790):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12438451/180821_2020_matchup_sidebar.png" alt="Polls 2020 verkiezingen VS">
     </div>
   </div>
   
- 
-
-<!-- Container (Portfolio Section) -->
+ <!-- Container (Portfolio Section) -->
 <div id="portfolio" class="container-fluid text-center bg-grey">
   <h2>Portfolio</h2><br>
   <h4>What we have created</h4>
