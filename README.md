@@ -204,7 +204,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#hoofdstuk1">HOOFDSTUK 1</a></li>
-        <li><a href="#services">HOOFDSTUK 2</a></li>
+        <li><a href="#hoofdstuk2">HOOFDSTUK 2</a></li>
         <li><a href="#portfolio">HOOFDSTUK 3</a></li>
         <li><a href="#pricing">HOOFDSTUK 4</a></li>
         <li><a href="#contact">HOOFDSTUK 5</a></li>
@@ -219,7 +219,7 @@
   <p>Wat is het effect van het uitreden uit het Parijskoord door de VS op de toekomst van het akkoord en de internationale betrekkingen?</p>
 </div>
 
-<!-- Container (About Section) -->
+<!-- Hoofdstuk 1 -->
 <div id="hoofdstuk1" class="container-fluid">
   <div class="row">
     <div class="col-sm-8">
@@ -235,17 +235,21 @@
   </div>
 </div>
 
-<div class="container-fluid bg-grey">
+
+<!-- Hoofdstuk 2 -->
+<div id="hoofdstuk2" class="container-fluid">
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-globe logo slideanim"></span>
+       <img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/2015_Climate_Conference.svg/1200px-2015_Climate_Conference.svg.png" alt="Logo of COP21">
     </div>
     <div class="col-sm-8">
-      <h2>Our Values</h2><br>
-      <h4><strong>MISSION:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
-      <p><strong>VISION:</strong> Our vision Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
+      <h2>Waarom verlaat de VS het Parijsakkoord?</h2><br>
+      <h4>Op 1 juni 2017 maakte Trump bekent dat de VS het klimaatakkoord van Parijs zou verlaten. Trump zei over deze beslissing dat hij het had besloten ‘om zijn plicht te vervullen de burgers van de Verenigde Staten te beschermen.’ Verder liet hij weten dat hij er open voor stond om over het akkoord te onderhandelen, maar de UNFCCC liet weten dat er geen onderhandeling gestart kunnen worden door een enkele deelnemer van het akkoord. Daarnaast bekritiseerde Trump het Green Climate Fund en noemde het een manier om rijkdom van de rijkere naar de armere landen te verplaatsen. In dit hoofdstuk ga ik op zoek naar de redenen van Trump’s beslissing. Er zijn namelijk 
+meerdere redenen die hebben geleid tot zijn beslissing. </h4><br>
+      <p>Ten eerste heeft Trump meerdere keren gezegd, in vooral tweets, dat hij niet gelooft in klimaatverandering. Daarom denkt hij dat de kosten van het Parijs-akkoord nutteloos zijn, aangezien de mens volgens hem helemaal niet zoveel impact heeft op het klimaat. Ondertussen lijkt het alsof Trump deze uitspraken over klimaatverandering doet om een excuus te hebben voor zijn beslissingen, zoals het ontmantelen van Obama’s Clean Power Plan en dus het verlaten van het Parijs-akkoord. Waarschijnlijk is er dus een diepere achterliggende rede voor zijn beslissing </p><br>
+      <p>Een achterliggende rede voor Trump’s uitspraken over klimaatverandering is dat hij de beslissing eigenlijk alleen maar maakt om politieke redenen. Tot nu toe heeft Trump moeite met het nakomen van zijn belangrijkste beloftes. Veel van zijn beloftes zijn geëindigd in compromissen of nog totaal niet nagekomen. Om zijn kiezers toch tevreden te stellen, heeft Trump besloten het Parijs-akkoord te verlaten. Deze beslissing is ook in lijn met zijn campagneslogan ‘America First’, omdat hij door het akkoord te verlaten het welzijn van de VS verkiest boven dat van de wereld. Door uit te gaan van wat hij in zijn campagne beloofde, hoopt hij meer kiezers voor zich te winnen.</p><br>
+      <p>Een andere rede die meespeelt is dat Trump vindt dat de maatregelen te veel geld kosten. Trump vindt dat de NDCs die door Obama zijn ingediend de VS te duur zijn en oneerlijk zijn tegenover de burgers van de VS. Als laatste heeft Trump ook gezegd dat hij niet gelooft dat het mechanisme van het Parijs-akkoord, wat uitgaat van vrijwillige bijdragen, niet in staat zal zijn het probleem van klimaatverandering op te lossen. Daarom is het geld dat er naartoe gaat nutteloos.</p>
+   </div>
   </div>
 </div>
 
