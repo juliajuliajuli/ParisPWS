@@ -203,11 +203,11 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about">INHOUD AKKOORD</a></li>
-        <li><a href="#services">DE VS ERUIT</a></li>
-        <li><a href="#portfolio">KANS OP VERLATEN</a></li>
-        <li><a href="#pricing">INTERNATIONALE BETREKKINGEN</a></li>
-        <li><a href="#contact">TOEKOMST AKKOORD</a></li>
+        <li><a href="#about">HOOFDSTUK 1</a></li>
+        <li><a href="#services">HOOFDSTUK 2</a></li>
+        <li><a href="#portfolio">HOOFDSTUK 3</a></li>
+        <li><a href="#pricing">HOOFDSTUK 4</a></li>
+        <li><a href="#contact">HOOFDSTUK 5</a></li>
       </ul>
     </div>
   </div>
