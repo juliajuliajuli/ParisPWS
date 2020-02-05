@@ -240,7 +240,7 @@
 <div id="hoofdstuk2" class="container-fluid">
   <div class="row">
     <div class="col-sm-4">
-       <img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/2015_Climate_Conference.svg/1200px-2015_Climate_Conference.svg.png" alt="Logo of COP21">
+       <img class="img-responsive" src="https://s.abcnews.com/images/Politics/paris-agreement-01-ap-jrl-180531_hpMain_4x5_992.jpg" alt="Trump speech over klimaatakkoord">
     </div>
     <div class="col-sm-8">
       <h2>Waarom verlaat de VS het Parijsakkoord?</h2><br>
