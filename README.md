@@ -223,9 +223,8 @@
 <div id="hoofdstuk1" class="container-fluid">
   <div class="row">
     <div class="col-sm-8">
-      <h2>Inhoud van het Parijsakkoord</h2><br>
+      <h2>Inhoud van het Parijsakkoord</h2>
       <h4>Om te begrijpen wat het effect is van het verlaten van het Parijsakkoord door de VS is het belangrijk om te bekijken wat er in het akkoord zelf staat en hoe het in elkaar zit. In dit hoofdstuk behandel ik de totstandkoming van het akkoord, de algemene inhoud van het akkoord, de binding van de afspraken en kritiek die erop is gekomen.</h4>
-      <br>
     <p> In het Parijs-akkoord staat samengevat dat alle landen samen moeten werken om er zo voor te zorgen dat de gemiddelde temperatuur niet meer stijgt dan 2.0°C. Hiervoor moeten de landen hun uitstoot van broeikasgassen beperken. De doelen die landen hebben om minder broeikasgassen uit te stoten worden samengevat in NDCs, die landen zelf kunnen bepalen. Het niet nakomen van de beloftes heeft geen consequenties. Het idee is dat landen elkaar door groepsdruk motiveren om hard hun best te doen. Elke 5 jaar wordt gecontroleerd of landen hun NDCs hebben gehaald en moeten ze nieuwe doelen indienen. Ook wordt voor het akkoord een Climate Fund opgezet, waar rijkere landen aan kunnen doneren om zo armere landen te helpen met het behalen van hun doelen. Het Parijs-akkoord is er dus alleen om de doelen te inventariseren, te evalueren en het voor alle landen mogelijk te maken om maatregelen te treffen. De kritiek die op het akkoord is gekomen is onder andere dat het mechanisme zonder bindende consequenties niet werkt, het ontoereikend is om het uiteindelijke doel van maximaal 2.0°C opwarming te behalen, er te weinig richtlijnen zijn rond de NDCs en er niets wordt gezegd over de lucht- en scheepvaart.
 </p>
     </div>
@@ -244,7 +243,7 @@
       <img class="img-responsive" src="https://cloudinary.cagle.com/image/upload/w_600/cartoons/191175.png" alt="Trump cartoon klimaatakkoord">
     </div>
     <div class="col-sm-8">
-      <h2>Waarom verlaat de VS het Parijsakkoord?</h2><br>
+      <h2>Waarom verlaat de VS het Parijsakkoord?</h2>
       <h4>Op 1 juni 2017 maakte Trump bekent dat de VS het klimaatakkoord van Parijs zou verlaten. Trump zei over deze beslissing dat hij het had besloten ‘om zijn plicht te vervullen de burgers van de Verenigde Staten te beschermen.’ Verder liet hij weten dat hij er open voor stond om over het akkoord te onderhandelen, maar de UNFCCC liet weten dat er geen onderhandeling gestart kunnen worden door een enkele deelnemer van het akkoord. Daarnaast bekritiseerde Trump het Green Climate Fund en noemde het een manier om rijkdom van de rijkere naar de armere landen te verplaatsen. In dit hoofdstuk ga ik op zoek naar de redenen van Trump’s beslissing. Er zijn namelijk 
 meerdere redenen die hebben geleid tot zijn beslissing. </h4>
        <p>Ten eerste heeft Trump meerdere keren gezegd, in vooral tweets, dat hij niet gelooft in klimaatverandering. Daarom denkt hij dat de kosten van het Parijs-akkoord nutteloos zijn, aangezien de mens volgens hem helemaal niet zoveel impact heeft op het klimaat. Ondertussen lijkt het alsof Trump deze uitspraken over klimaatverandering doet om een excuus te hebben voor zijn beslissingen, zoals het ontmantelen van Obama’s Clean Power Plan en dus het verlaten van het Parijs-akkoord. Waarschijnlijk is er dus een diepere achterliggende rede voor zijn beslissing </p>
