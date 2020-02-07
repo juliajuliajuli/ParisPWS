@@ -267,7 +267,7 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
   </div>
   
 <!-- Hoofdstuk 4 -->
-<div id="hoofdstuk4" class="container-fluid text-center">
+<div id="hoofdstuk4" class="container-fluid">
     <div class="row">
        <div class="col-sm-4">
       <br><img class="img-responsive" src="https://media.newyorker.com/photos/5930923fd7cd35454b875d11/master/w_2560%2Cc_limit/Davidson-Merkel-Trump-Comments.jpg" alt="Merkel kijkt naar Trump"><br><br><br>
@@ -285,7 +285,7 @@ mogelijk in de toekomst. De relaties tussen de VS en de andere landen verliepen 
 redelijk stroef sinds Trump president is en de beslissing om het Parijs-akkoord te
 verlaten helpt niet mee om die te verbeteren. Toch blijven de relaties waarschijnlijk
 redelijk stabiel, omdat de VS erg machtig en rijk is. Bijna alle landen zijn erg afhankelijk
-van de VS en zullen daarom niet snel ruzie zoeken met het land. <br>
+van de VS en zullen daarom niet snel ruzie zoeken met het land. <br><br>
 De beslissing van Trump die in lijn is met zijn America First beleid kan wel als
 voorbeeld worden gezien door andere landen. In bijvoorbeeld Brazilië en Australië zijn
 recent rechtse leiders aan de macht gekomen die het voorbeeld van Trump volgen en
