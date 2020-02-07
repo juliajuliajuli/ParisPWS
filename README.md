@@ -269,6 +269,7 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
 <!-- Hoofdstuk 4 -->
 <div id="hoofdstuk4" class="container-fluid text-center">
       <div class="col-sm-8">
+          <div class="row">
   <h2>Internationale Betrekkingen</h2><br>
   </div>
   </div> 
@@ -276,15 +277,16 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
 <!-- Hoofdstuk 5 -->
 <div id="hoofdstuk5" class="container-fluid text-center">
     <div class="col-sm-8">
+        <div class="row">
     <h2>Toekomst van het akkoord</h2><br>
     </div> 
   </div> 
   
 <!-- Eigen voorspelling -->
-<div id="eigenvoorspelling" class="container-fluid">
-  <h2 class="text-center">Eigen voorspelling</h2>
-  <div class="row">
-    <div class="col-sm-8">
+<div id="eigenvoorspelling" class="container-fluid text-center">
+     <div class="col-sm-8">
+         <div class="row">
+  <h2>Eigen voorspelling</h2>
     </div>
   </div> 
      
