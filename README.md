@@ -208,7 +208,7 @@
         <li><a href="#hoofdstuk3">HOOFDSTUK 3</a></li>
         <li><a href="#hoofdstuk4">HOOFDSTUK 4</a></li>
         <li><a href="#hoofdstuk5">HOOFDSTUK 5</a></li>
-        <li><a href="eigenvoorspelling">VOORSPELLING</a></li>
+        <li><a href="#eigenvoorspelling">VOORSPELLING</a></li>
       </ul>
     </div>
   </div>
