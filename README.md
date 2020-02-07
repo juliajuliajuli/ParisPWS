@@ -267,22 +267,26 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
   </div>
   
 <!-- Hoofdstuk 4 -->
-<div id="hoofdstuk4" class="container-fluid text-center bg-grey">
+<div id="hoofdstuk4" class="container-fluid text-center">
+      <div class="col-sm-8">
   <h2>Internationale Betrekkingen</h2><br>
+  </div>
+  </div> 
 
 <!-- Hoofdstuk 5 -->
-<div id="hoofdstuk5" class="container-fluid">
-  <div class="text-center">
+<div id="hoofdstuk5" class="container-fluid text-center">
     <div class="col-sm-8">
-    <h2>Toekomst van het akkoord</h2>
+    <h2>Toekomst van het akkoord</h2><br>
     </div> 
   </div> 
   
 <!-- Eigen voorspelling -->
-<div id="eigenvoorspelling" class="container-fluid bg-grey">
+<div id="eigenvoorspelling" class="container-fluid">
   <h2 class="text-center">Eigen voorspelling</h2>
   <div class="row">
-    <div class="col-sm-5">
+    <div class="col-sm-8">
+    </div>
+  </div> 
      
 
 <!-- Footer -->
@@ -290,9 +294,9 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
-  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com" title="Visit w3schools">www.w3schools.com</a></p>
 </footer>
 
+<!--Javascript-->
 <script>
 $(document).ready(function(){
  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
