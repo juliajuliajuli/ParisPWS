@@ -268,10 +268,30 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
   
 <!-- Hoofdstuk 4 -->
 <div id="hoofdstuk4" class="container-fluid text-center">
+    <div class="row">
+       <div class="col-sm-4">
+      <br><img class="img-responsive" src="https://media.newyorker.com/photos/5930923fd7cd35454b875d11/master/w_2560%2Cc_limit/Davidson-Merkel-Trump-Comments.jpg" alt="Merkel kijkt naar Trump"><br><br><br>
+      <img class="img-responsive" src="https://s.abcnews.com/images/International/trump-bolsonaro-rt-ml-190319_hpMain_4x5_992.jpg" alt="Trump en Bolsonaro">
+    </div>
       <div class="col-sm-8">
-          <div class="row">
-  <h2>Internationale Betrekkingen</h2><br>
-  </div>
+       <h2>Internationale Betrekkingen</h2>
+        <h4>De relaties tussen de VS en andere landen in de wereld verandert doordat de het land
+uit het Parijs-akkoord stapt. In dit hoofdstuk behandel ik hoe de relatie tussen de VS en
+andere landen nu is, hoe die kan veranderen nadat de VS het akkoord verlaat en de
+positie als voorbeeld van de VS</h4>
+        <p>Als Trump wel wordt herkozen en de VS uit het Klimaatakkoord van Parijs treedt, in
+ieder geval gedurende de komende termijn van 4 jaar, zijn er verschillende scenario’s
+mogelijk in de toekomst. De relaties tussen de VS en de andere landen verliepen al
+redelijk stroef sinds Trump president is en de beslissing om het Parijs-akkoord te
+verlaten helpt niet mee om die te verbeteren. Toch blijven de relaties waarschijnlijk
+redelijk stabiel, omdat de VS erg machtig en rijk is. Bijna alle landen zijn erg afhankelijk
+van de VS en zullen daarom niet snel ruzie zoeken met het land. <br>
+De beslissing van Trump die in lijn is met zijn America First beleid kan wel als
+voorbeeld worden gezien door andere landen. In bijvoorbeeld Brazilië en Australië zijn
+recent rechtse leiders aan de macht gekomen die het voorbeeld van Trump volgen en
+vooral keuzes maken waar hun eigen land profijt van heeft, maar wat voor de rest van
+de wereld niet per se de beste keuze is. </p>
+   </div>
   </div> 
 
 <!-- Hoofdstuk 5 -->
