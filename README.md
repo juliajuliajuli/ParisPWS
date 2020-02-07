@@ -268,11 +268,15 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
   
 <!-- Hoofdstuk 4 -->
 <div id="hoofdstuk4" class="container-fluid text-center bg-grey">
-  <h2>Portfolio</h2><br>
+  <h2>Internationale Betrekkingen</h2><br>
 
 <!-- Hoofdstuk 5 -->
 <div id="hoofdstuk5" class="container-fluid">
   <div class="text-center">
+    <div class="col-sm-8">
+    <h2>Toekomst van het akkoord</h2>
+    </div> 
+  </div> 
   
 <!-- Eigen voorspelling -->
 <div id="eigenvoorspelling" class="container-fluid bg-grey">
@@ -280,9 +284,8 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
   <div class="row">
     <div class="col-sm-5">
      
-<!-- Image of location/map -->
-<img src="/w3images/map.jpg" class="w3-image w3-greyscale-min" style="width:100%">
 
+<!-- Footer -->
 <footer class="container-fluid text-center">
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
