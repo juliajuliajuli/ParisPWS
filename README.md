@@ -204,11 +204,11 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#üewhfiuhf"></a></li>
-        <li><a href="#hoofdstuk1">H1</a></li>
-        <li><a href="#hoofdstuk2">HOOFDSTUK 2</a></li>
-        <li><a href="#hoofdstuk3">HOOFDSTUK 3</a></li>
-        <li><a href="#hoofdstuk4">HOOFDSTUK 4</a></li>
-        <li><a href="#hoofdstuk5">HOOFDSTUK 5</a></li>
+        <li><a href="#hoofdstuk1">INHOUD</a></li>
+        <li><a href="#hoofdstuk2">REDENEN</a></li>
+        <li><a href="#hoofdstuk3">KANS</a></li>
+        <li><a href="#hoofdstuk4">RELATIES</a></li>
+        <li><a href="#hoofdstuk5">TOEKOMST</a></li>
         <li><a href="#eigenvoorspelling">VOORSPELLING</a></li>
       </ul>
     </div>
