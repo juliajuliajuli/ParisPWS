@@ -295,10 +295,10 @@ de wereld niet per se de beste keuze is. </p>
   </div> 
 
 <!-- Hoofdstuk 5 -->
-<div id="hoofdstuk5" class="container-fluid text-center">
+<div id="hoofdstuk5" class="container-fluid">
+      <div class="row">
     <div class="col-sm-8">
-        <div class="row">
-    <h2>Toekomst van het akkoord</h2>
+      <h2>Toekomst van het akkoord</h2>
           <h4>De leider van het Parijs-akkoord wil het akkoord verlaten. Dit zal zeker een impact
 hebben op de toekomst van het akkoord. In dit hoofdstuk behandel ik verschillende
 perspectieven over hoe de toekomst van het akkoord eruit ziet en de mogelijkheid van
