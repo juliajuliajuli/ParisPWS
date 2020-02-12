@@ -199,10 +199,11 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#myPage"><i class="glyphicon glyphicon-home"></i>HOME</a>
+      <a class="navbar-brand" href="#myPage"><i class="glyphicon glyphicon-home"></i> HOME</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
+        <li><a href=#"üewhfiuhf"></a></li>
         <li><a href="#hoofdstuk1">HOOFDSTUK 1</a></li>
         <li><a href="#hoofdstuk2">HOOFDSTUK 2</a></li>
         <li><a href="#hoofdstuk3">HOOFDSTUK 3</a></li>
@@ -275,22 +276,9 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
     </div>
       <div class="col-sm-8">
        <h2>Internationale Betrekkingen</h2>
-        <h4>De relaties tussen de VS en andere landen in de wereld verandert doordat de het land
-uit het Parijs-akkoord stapt. In dit hoofdstuk behandel ik hoe de relatie tussen de VS en
-andere landen nu is, hoe die kan veranderen nadat de VS het akkoord verlaat en de
-positie als voorbeeld van de VS</h4>
-        <p>Als Trump wel wordt herkozen en de VS uit het Klimaatakkoord van Parijs treedt, in
-ieder geval gedurende de komende termijn van 4 jaar, zijn er verschillende scenario’s
-mogelijk in de toekomst. De relaties tussen de VS en de andere landen verliepen al
-redelijk stroef sinds Trump president is en de beslissing om het Parijs-akkoord te
-verlaten helpt niet mee om die te verbeteren. Toch blijven de relaties waarschijnlijk
-redelijk stabiel, omdat de VS erg machtig en rijk is. Bijna alle landen zijn erg afhankelijk
-van de VS en zullen daarom niet snel ruzie zoeken met het land. <br><br>
-De beslissing van Trump die in lijn is met zijn America First beleid kan wel als
-voorbeeld worden gezien door andere landen. In bijvoorbeeld Brazilië en Australië zijn
-recent rechtse leiders aan de macht gekomen die het voorbeeld van Trump volgen en
-vooral keuzes maken waar hun eigen land profijt van heeft, maar wat voor de rest van
-de wereld niet per se de beste keuze is. </p>
+        <h4>De relaties tussen de VS en andere landen in de wereld verandert doordat de het land uit het Parijs-akkoord stapt. In dit hoofdstuk behandel ik hoe de relatie tussen de VS en andere landen nu is, hoe die kan veranderen nadat de VS het akkoord verlaat en de positie als voorbeeld van de VS</h4>
+        <p>Als Trump wel wordt herkozen en de VS uit het Klimaatakkoord van Parijs treedt, in ieder geval gedurende de komende termijn van 4 jaar, zijn er verschillende scenario’s mogelijk in de toekomst. De relaties tussen de VS en de andere landen verliepen al redelijk stroef sinds Trump president is en de beslissing om het Parijs-akkoord te verlaten helpt niet mee om die te verbeteren. Toch blijven de relaties waarschijnlijk redelijk stabiel, omdat de VS erg machtig en rijk is. Bijna alle landen zijn erg afhankelijk van de VS en zullen daarom niet snel ruzie zoeken met het land. <br><br> De beslissing van Trump die in lijn is met zijn America First beleid kan wel als
+voorbeeld worden gezien door andere landen. In bijvoorbeeld Brazilië en Australië zijn recent rechtse leiders aan de macht gekomen die het voorbeeld van Trump volgen en vooral keuzes maken waar hun eigen land profijt van heeft, maar wat voor de rest van de wereld niet per se de beste keuze is. </p>
    </div>
   </div> 
 
