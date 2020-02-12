@@ -314,16 +314,19 @@ een nieuwe leider. </h4>
   </div> 
   
 <!-- Eigen voorspelling -->
-<div id="eigenvoorspelling" class="container-fluid text-center">
-     <div class="col-sm-8">
+<div id="eigenvoorspelling" class="container-fluid">
+     <div class="col-sm-12">
          <div class="row">
   <h2>Eigen voorspelling</h2><br><br>
+           <h4>Over hoe de toekomst van het Parijs-akkoord eruit ziet zijn vele verschillende meningen. Zal het compleet uit elkaar vallen, blijven bestaan maar weinig effect hebben of zal het de toekomst van onze aarde redden? En wordt China de nieuwe leider op het gebied van klimaat of niet? Hier zal ik mijn inschatting doen van de toekomst gebaseerd op mijn bevindingen tijdens het schrijven van mijn profielwerkstuk. </h4>
+           <p>Mijn eigen verwachting is dat China de leiderschapsrol zal invullen en de kans pakt om zijn imago op te poetsen. Daarnaast denk ik dat de toekomst van het akkoord er niet al te rooskleurig uit zal zien. Dat andere landen het akkoord ook gaan verlaten zie ik niet zo snel gebeuren, maar ik denk wel dat de landen te weinig zullen doen om de opwarming van de aarde te beperken tot 2.0°C. <br> <br> Het effect van Trump’s beslissing op met de VS uit het Parijs-akkoord te treden kan dus allerlei gevolgen hebben. Het valt eerst nog te bezien of de VS daadwerkelijk voor langere tijd uit het akkoord stapt. Als dat wel gebeurt kan het akkoord falen of een groot succes worden. De kans dat het gaat falen acht ik vrij groot. Ik hoop natuurlijk op een succes.</p>
     </div>
   </div> 
      
 
 <!-- Footer -->
 <footer class="container-fluid text-center">
+  <br>
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
