@@ -206,7 +206,7 @@
         <li><a href="#üewhfiuhf"></a></li>
         <li><a href="#hoofdstuk1">INHOUD AKKOORD</a></li>
         <li><a href="#hoofdstuk2">REDENEN</a></li>
-        <li><a href="#hoofdstuk3">KANS VAN VERLATEN</a></li>
+        <li><a href="#hoofdstuk3">UITTREDING</a></li>
         <li><a href="#hoofdstuk4">RELATIES</a></li>
         <li><a href="#hoofdstuk5">TOEKOMST</a></li>
         <li><a href="#eigenvoorspelling">VOORSPELLING</a></li>
