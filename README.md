@@ -263,7 +263,7 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
 <div id="hoofdstuk4" class="container-fluid">
     <div class="row">
        <div class="col-sm-4">
-      <br><img class="img-responsive" src="https://media.newyorker.com/photos/5930923fd7cd35454b875d11/master/w_2560%2Cc_limit/Davidson-Merkel-Trump-Comments.jpg" alt="Merkel kijkt naar Trump"><br><br><br>
+      <br><img class="img-responsive" src="https://media.newyorker.com/photos/5930923fd7cd35454b875d11/master/w_2560%2Cc_limit/Davidson-Merkel-Trump-Comments.jpg" alt="Merkel kijkt naar Trump"><br>
       <img class="img-responsive" src="https://s.abcnews.com/images/International/trump-bolsonaro-rt-ml-190319_hpMain_4x5_992.jpg" alt="Trump en Bolsonaro">
     </div>
       <div class="col-sm-8">
@@ -290,7 +290,7 @@ een nieuwe leider. </h4>
        <div class="col-sm-4">
       <br>
         <img class="img-responsive" src="https://www.rollingstone.com/wp-content/uploads/2019/03/GettyImages-1135966575.jpg?w=800" alt="Klimaatstaking"><br><br>
-       <img class="img-responsive" src="https://api.time.com/wp-content/uploads/2014/04/xi-jinping-time-100-feat.jpg?quality=85&w=407" alt="Xi Jinping">
+       <img class="img-responsive" src="https://image.cnbcfm.com/api/v1/image/106237415-1573481552152rtx78e3r.jpg?v=1573481622&w=678&h=381" alt="Xi Jinping">
     </div>
   </div> 
   </div>
@@ -300,8 +300,7 @@ een nieuwe leider. </h4>
   <div class="row">
    <div class="col-sm-4"> 
      <br>
-    <img class="img-responsive" src="https://img2.chinadaily.com.cn/images/201909/19/5d82da3ca310cf3e979cf08b.jpeg" alt="Caroon aarde">
-     <img class="img-responsive" src="https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/02/07/48048fac-3c04-11ea-a16e-39b824591591_1440x2960_111539.jpg" alt="China smog">" 
+    <img class="img-responsive" src="https://img2.chinadaily.com.cn/images/201909/19/5d82da3ca310cf3e979cf08b.jpeg" alt="Caroon aarde"> 
       </div>
   <div class="col-sm-8">
     <h2>Eigen voorspelling</h2>
