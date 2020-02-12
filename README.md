@@ -319,6 +319,7 @@ een nieuwe leider. </h4>
    <div class="col-sm-4"> 
      <br>
     <img class="img-responsive" src="https://img2.chinadaily.com.cn/images/201909/19/5d82da3ca310cf3e979cf08b.jpeg" alt="Caroon aarde">
+     <img class="img-responsive" src="<img class="img-responsive" src="https://api.time.com/wp-content/uploads/2014/04/xi-jinping-time-100-feat.jpg?quality=85&w=407" alt="China smog">" alt="Xi Jinping">
       </div>
   <div class="col-sm-8">
     <h2>Eigen voorspelling</h2>
