@@ -307,8 +307,9 @@ een nieuwe leider. </h4>
           </p> <br> <p>Ook over een nieuwe leider van het Parijs-akkoord is nog veel onzekerheid. Wellicht wordt het China, misschien de EU of een verzameling van landen die het eerst de gevolgen van klimaatverandering zullen ondervinden. Misschien komt er helemaal geen nieuwe leider. </p>
     </div> 
        <div class="col-sm-4">
-      <br><img class="img-responsive" src="https://www.rollingstone.com/wp-content/uploads/2019/03/GettyImages-1135966575.jpg?w=800" alt="Klimaatstaking"><br><br>
-      <img class="img-responsive" srchttps://api.time.com/wp-content/uploads/2014/04/xi-jinping-time-100-feat.jpg?quality=85&w=407" alt="Xi Jingping">
+      <br>
+        <img class="img-responsive" src="https://www.rollingstone.com/wp-content/uploads/2019/03/GettyImages-1135966575.jpg?w=800" alt="Klimaatstaking"><br><br>
+       <img class="img-responsive" src="https://api.time.com/wp-content/uploads/2014/04/xi-jinping-time-100-feat.jpg?quality=85&w=407" alt="Xi Jinping">
     </div>
   </div> 
   
