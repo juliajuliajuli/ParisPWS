@@ -209,7 +209,7 @@
 <div class="jumbotron text-center">
   <h1>PWS - Het Parijsakkoord</h1> 
   <p>Door Julia Hoevenaar</p> 
-  <p>Wat is het effect van het uitreden uit het Parijskoord door de VS op de toekomst van het akkoord en de internationale betrekkingen?</p>
+  <p><i>Wat is het effect van het uitreden uit het Parijskoord door de VS op de toekomst van het akkoord en de internationale betrekkingen?</i></p>
 </div>
 
 <!-- Hoofdstuk 1 -->
