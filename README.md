@@ -296,7 +296,7 @@ de wereld niet per se de beste keuze is. </p>
 
 <!-- Hoofdstuk 5 -->
 <div id="hoofdstuk5" class="container-fluid">
-      <div class="row">
+   <div class="row">
     <div class="col-sm-8">
       <h2>Toekomst van het akkoord</h2>
           <h4>De leider van het Parijs-akkoord wil het akkoord verlaten. Dit zal zeker een impact
