@@ -304,7 +304,7 @@ hebben op de toekomst van het akkoord. In dit hoofdstuk behandel ik verschillend
 perspectieven over hoe de toekomst van het akkoord eruit ziet en de mogelijkheid van
 een nieuwe leider. </h4>
           <p>De toekomst van het akkoord is lastig te voorspellen. Ik heb in mijn profielwerkstuk 3 scenario’s onderscheiden. Het kan dat landen het voorbeeld van Trump volgen, voor zichzelf kiezen en daarom het akkoord verlaten of niet meer hun best gaan doen om hun doelen te bereiken. Dan zal het akkoord uit elkaar vallen. Een ander scenario is dat de landen niet het akkoord verlaten, wellicht omdat de druk van de burgers te groot is, maar ook niet meer hun best doen om de NDCs te halen. Dan zal het akkoord wel blijven bestaan, maar nauwelijks effect hebben. De laatste mogelijkheid is dat door meer druk van de straat en de media en bijvoorbeeld lagere prijzen van duurzame energie landen toch hun NDCs halen en meer gemotiveerd zijn en de akkoord in staat is om de opwarming van de aarde te beperken.
-<br> Ook over een nieuwe leider van het Parijs-akkoord is nog veel onzekerheid. Wellicht wordt het China, misschien de EU of een verzameling van landen die het eerst de gevolgen van klimaatverandering zullen ondervinden. Misschien komt er helemaal geen nieuwe leider. </p>
+<br> <br> Ook over een nieuwe leider van het Parijs-akkoord is nog veel onzekerheid. Wellicht wordt het China, misschien de EU of een verzameling van landen die het eerst de gevolgen van klimaatverandering zullen ondervinden. Misschien komt er helemaal geen nieuwe leider. </p>
     </div> 
        <div class="col-sm-4">
       <br>
