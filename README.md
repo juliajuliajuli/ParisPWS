@@ -58,16 +58,7 @@
     height: 100%;
     margin-bottom: 10px;
   }
-  .carousel-control.right, .carousel-control.left {
-    background-image: none;
-    color: #006666;
-  }
-  .carousel-indicators li {
-    border-color: #006666;
-  }
-  .carousel-indicators li.active {
-    background-color: #006666;
-  }
+
   .item h4 {
     font-size: 19px;
     line-height: 1.375em;
@@ -266,6 +257,7 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
       <br><img class="img-responsive" src="https://cdn.vox-cdn.com/thumbor/OdBTI43zJk_o0sI9nO39OEo1RSE=/0x0:1501x2790/1200x0/filters:focal(0x0:1501x2790):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12438451/180821_2020_matchup_sidebar.png" alt="Polls 2020 verkiezingen VS">
     </div>
   </div>
+  </div>
   
 <!-- Hoofdstuk 4 -->
 <div id="hoofdstuk4" class="container-fluid">
@@ -281,6 +273,7 @@ meerdere redenen die hebben geleid tot zijn beslissing. </h4>
 voorbeeld worden gezien door andere landen. In bijvoorbeeld Brazilië en Australië zijn recent rechtse leiders aan de macht gekomen die het voorbeeld van Trump volgen en vooral keuzes maken waar hun eigen land profijt van heeft, maar wat voor de rest van de wereld niet per se de beste keuze is. </p>
    </div>
   </div> 
+  </div>
 
 <!-- Hoofdstuk 5 -->
 <div id="hoofdstuk5" class="container-fluid">
@@ -300,6 +293,7 @@ een nieuwe leider. </h4>
        <img class="img-responsive" src="https://api.time.com/wp-content/uploads/2014/04/xi-jinping-time-100-feat.jpg?quality=85&w=407" alt="Xi Jinping">
     </div>
   </div> 
+  </div>
   
 <!-- Eigen voorspelling -->
 <div id="eigenvoorspelling" class="container-fluid">
@@ -315,6 +309,7 @@ een nieuwe leider. </h4>
            <p>Mijn eigen verwachting is dat China de leiderschapsrol zal invullen en de kans pakt om zijn imago op te poetsen. Daarnaast denk ik dat de toekomst van het akkoord er niet al te rooskleurig uit zal zien. Dat andere landen het akkoord ook gaan verlaten zie ik niet zo snel gebeuren, maar ik denk wel dat de landen te weinig zullen doen om de opwarming van de aarde te beperken tot 2.0°C. <br> <br> Het effect van Trump’s beslissing op met de VS uit het Parijs-akkoord te treden kan dus allerlei gevolgen hebben. Het valt eerst nog te bezien of de VS daadwerkelijk voor langere tijd uit het akkoord stapt. Als dat wel gebeurt kan het akkoord falen of een groot succes worden. De kans dat het gaat falen acht ik vrij groot. Ik hoop natuurlijk op een succes.</p>
     </div>
    </div> 
+  </div>
      
 
 <!-- Footer -->
