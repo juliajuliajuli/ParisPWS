@@ -203,7 +203,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href=#"üewhfiuhf"></a></li>
+        <li><a href="#üewhfiuhf"></a></li>
         <li><a href="#hoofdstuk1">HOOFDSTUK 1</a></li>
         <li><a href="#hoofdstuk2">HOOFDSTUK 2</a></li>
         <li><a href="#hoofdstuk3">HOOFDSTUK 3</a></li>
@@ -323,7 +323,7 @@ een nieuwe leider. </h4>
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
-  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">W3-SCHOOLS</a></p> 
+  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">w3schools</a></p> 
 </footer>
 
 <!--Javascript-->
