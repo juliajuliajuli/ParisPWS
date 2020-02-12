@@ -204,7 +204,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#üewhfiuhf"></a></li>
-        <li><a href="#hoofdstuk1">INHOUD</a></li>
+        <li><a href="#hoofdstuk1">INHOUD AKKOORD</a></li>
         <li><a href="#hoofdstuk2">REDENEN</a></li>
         <li><a href="#hoofdstuk3">KANS VAN VERLATEN</a></li>
         <li><a href="#hoofdstuk4">RELATIES</a></li>
