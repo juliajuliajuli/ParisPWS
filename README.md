@@ -1,5 +1,6 @@
 <html lang="en">
 <head>
+  <!-- ALlerlei links die in het theme al stonden, om Bootstrap en fonts te kunnen gebruiken. -->
   <title>Het Parijsakkoord</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,6 +9,7 @@
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <!-- De styling zat ook al in het theme, wel kleuren aangepast, dingen verwijdert die niet meer nodig waren, zoals de styling van een boostrap carousel. -->
   <style>
   body {
     font: 400 15px Lato, sans-serif;
@@ -134,34 +136,7 @@
     margin-bottom: 20px;
     color: #006666;
   }
-  .slideanim {visibility:hidden;}
-  .slide {
-    animation-name: slide;
-    -webkit-animation-name: slide;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    visibility: visible;
-  }
-  @keyframes slide {
-    0% {
-      opacity: 0;
-      transform: translateY(70%);
-    } 
-    100% {
-      opacity: 1;
-      transform: translateY(0%);
-    }
-  }
-  @-webkit-keyframes slide {
-    0% {
-      opacity: 0;
-      -webkit-transform: translateY(70%);
-    } 
-    100% {
-      opacity: 1;
-      -webkit-transform: translateY(0%);
-    }
-  }
+  
   @media screen and (max-width: 768px) {
     .col-sm-4 {
       text-align: center;
@@ -181,7 +156,7 @@
 </head>
   <!-- Home Page -->
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
-
+<!--Navbar, titels aangepast, nieuwe buttons erbij en glyphicon toegevoegd aan de navbar brand  -->
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
@@ -206,13 +181,14 @@
   </div>
 </nav>
 
+<!-- Jumbotron zal er ook al in, kleuren en text verandert en deel van text italics gemaakt -->
 <div class="jumbotron text-center">
   <h1>PWS - Het Parijsakkoord</h1> 
   <p>Door Julia Hoevenaar</p> 
   <p><i>Wat is het effect van het uitreden uit het Parijskoord door de VS op de toekomst van het akkoord en de internationale betrekkingen?</i></p>
 </div>
 
-<!-- Hoofdstuk 1 -->
+<!-- Hoofdstuk 1, bij alle hoofdstukken colums aangepast en text en plaatjes toegevoegd-->
 <div id="hoofdstuk1" class="container-fluid">
   <div class="row">
     <div class="col-sm-8">
