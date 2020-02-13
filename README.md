@@ -154,7 +154,8 @@
   }
   </style>
 </head>
-  <!-- Home Page -->
+ 
+ <!-- Home Page -->
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 <!--Navbar, titels aangepast, nieuwe buttons erbij en glyphicon toegevoegd aan de navbar brand  -->
 <nav class="navbar navbar-default navbar-fixed-top">
@@ -296,7 +297,7 @@ een nieuwe leider. </h4>
   <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">w3schools</a></p> 
 </footer>
 
-<!--Javascript-->
+<!--Javascript, dit zat ook al in het theme. Volgens mij zorgt dit ervoor dat de site niet crashed en goed werkt.-->
 <script>
 $(document).ready(function(){
  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
