@@ -161,7 +161,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#myPage"><i class="glyphicon glyphicon-home"></i>Home</a>
+      <a class="navbar-brand" href="#myPage"><i class="glyphicon glyphicon-home"></i> Home</a>
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -171,7 +171,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#üewhfiuhf"></a></li>
-        <li><a href="#hoofdstuk1">INHOUD AKKOORD</a></li>
+        <li class="active"><a href="#hoofdstuk1">INHOUD AKKOORD</a></li>
         <li><a href="#hoofdstuk2">REDENEN</a></li>
         <li><a href="#hoofdstuk3">UITTREDING</a></li>
         <li><a href="#hoofdstuk4">RELATIES</a></li>
