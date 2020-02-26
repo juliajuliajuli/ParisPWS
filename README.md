@@ -159,26 +159,29 @@
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 
 <!--Navbar, titels aangepast, nieuwe buttons erbij en glyphicon toegevoegd aan de navbar brand  -->
-<nav class="navbar navbar-inverse navbar-static-top navbar-fixed-top" role="navigation">
-  <div class="container">
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#myPage">PWS</a>
     </div>
-<!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="about.php">About</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="contact.php">Contact</a></li>
+        <li class="active"><a href="#myPage">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#hoofdstuk1">Inhoud akoord<span class="caret"></span></a>
+        </li>
+        <li><a href="#hoofdstuk2">Redenen</a></li>
+        <li><a href="#hoofdstuk3">Uittreding</a></li>
+        <li><a href="#hoofdstuk4">Relaties</a></li>
+        <li><a href="#hoofdstuk5">Toekomst</a></li>
+        <li><a href="#eigenvoorspelling">Voorspelling</a></li>
       </ul>
-    </div>
+     </div>
   </div>
 </nav>
 
