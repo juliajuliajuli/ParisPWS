@@ -131,9 +131,6 @@
     border-color: transparent;
     color: #fff !important;
   }
-  .navbar-brand { 
-  height: 80px;
-  }
   
   footer .glyphicon {
     font-size: 20px;
@@ -144,7 +141,7 @@
   @media screen and (max-width: 768px) {
     .col-sm-4 {
       text-align: center;
-      margin: 25px 0;
+      margin: 15px 0;
     }
     .btn-lg {
       width: 100%;
