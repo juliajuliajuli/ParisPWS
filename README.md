@@ -159,38 +159,28 @@
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 
 <!--Navbar, titels aangepast, nieuwe buttons erbij en glyphicon toegevoegd aan de navbar brand  -->
-<nav class="navbar navbar-light light-blue lighten-4">
-
-  <!-- Navbar brand -->
-  <a class="navbar-brand" href="#">Navbar</a>
-
-  <!-- Collapse button -->
-  <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
-    aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
-        class="fas fa-bars fa-1x"></i></span></button>
-
-  <!-- Collapsible content -->
-  <div class="collapse navbar-collapse" id="navbarSupportedContent1">
-
-    <!-- Links -->
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-    </ul>
-    <!-- Links -->
-
+<nav class="navbar navbar-inverse navbar-static-top navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+    </div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="about.php">About</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="contact.php">Contact</a></li>
+      </ul>
+    </div>
   </div>
-  <!-- Collapsible content -->
-
 </nav>
-<!--/.Navbar-->
 
 <!-- Jumbotron zal er ook al in, kleuren en text verandert en deel van text italics gemaakt -->
 <div class="jumbotron text-center">
