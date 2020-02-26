@@ -172,12 +172,12 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#myPage">Home</a></li>
-        <li><a href="#hoofdstuk1">Inhoud akoord</a></li>
-        <li><a href="#hoofdstuk2">Redenen</a></li>
-        <li><a href="#hoofdstuk3">Uittreding</a></li>
-        <li><a href="#hoofdstuk4">Relaties</a></li>
-        <li><a href="#hoofdstuk5">Toekomst</a></li>
-        <li><a href="#eigenvoorspelling">Voorspelling</a></li>
+        <li><a href="#hoofdstuk1">INHOUD AKKOORD</a></li>
+        <li><a href="#hoofdstuk2">REDENEN</a></li>
+        <li><a href="#hoofdstuk3">UITTREDING</a></li>
+        <li><a href="#hoofdstuk4">RELATIES</a></li>
+        <li><a href="#hoofdstuk5">TOEKOMST</a></li>
+        <li><a href="#eigenvoorspelling">VOORSPELLING</a></li>
       </ul>
      </div>
   </div>
