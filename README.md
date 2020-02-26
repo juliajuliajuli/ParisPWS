@@ -172,9 +172,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#myPage">Home</a></li>
-        <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#hoofdstuk1">Inhoud akoord<span class="caret"></span></a>
-        </li>
+        <li><a href="#hoofdstuk1">Inhoud akoord</a></li>
         <li><a href="#hoofdstuk2">Redenen</a></li>
         <li><a href="#hoofdstuk3">Uittreding</a></li>
         <li><a href="#hoofdstuk4">Relaties</a></li>
