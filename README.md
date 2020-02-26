@@ -131,6 +131,10 @@
     border-color: transparent;
     color: #fff !important;
   }
+  .navbar-brand { 
+  height: 80px;
+  }
+  
   footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
