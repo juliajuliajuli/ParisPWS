@@ -157,29 +157,25 @@
  
  <!-- Home Page -->
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+
 <!--Navbar, titels aangepast, nieuwe buttons erbij en glyphicon toegevoegd aan de navbar brand  -->
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
-    <div class="navbar-header">
+<nav class="navbar navbar-light navbar-fixed-top lighten-4">
       <a class="navbar-brand" href="#myPage"><i class="glyphicon glyphicon-home"></i> Home</a>
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#üewhfiuhf"></a></li>
+      <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
+    aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
+        class="fas fa-bars fa-1x"></i></span></button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+      <ul class="nav navbar-nav navbar-right mr-auto">
+        <li class="nav-item active">
+        <a href="#üewhfiuhf"></a></li>
         <li class="active"><a href="#hoofdstuk1">INHOUD AKKOORD</a></li>
-        <li><a href="#hoofdstuk2">REDENEN</a></li>
-        <li><a href="#hoofdstuk3">UITTREDING</a></li>
-        <li><a href="#hoofdstuk4">RELATIES</a></li>
-        <li><a href="#hoofdstuk5">TOEKOMST</a></li>
-        <li><a href="#eigenvoorspelling">VOORSPELLING</a></li>
+        <li class="nav-item active"><a href="#hoofdstuk2">REDENEN</a></li>
+        <li class="nav-item active"><a href="#hoofdstuk3">UITTREDING</a></li>
+        <li class="nav-item active"><a href="#hoofdstuk4">RELATIES</a></li>
+        <li class="nav-item active"><a href="#hoofdstuk5">TOEKOMST</a></li>
+        <li class="nav-item active"><a href="#eigenvoorspelling">VOORSPELLING</a></li>
       </ul>
     </div>
-  </div>
 </nav>
 
 <!-- Jumbotron zal er ook al in, kleuren en text verandert en deel van text italics gemaakt -->
