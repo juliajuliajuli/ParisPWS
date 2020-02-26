@@ -175,7 +175,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#myPage">Home</a></li>
+        <li class="active"><a href="#myPage">HOME</a></li>
         <li><a href="#hoofdstuk1">INHOUD AKKOORD</a></li>
         <li><a href="#hoofdstuk2">REDENEN</a></li>
         <li><a href="#hoofdstuk3">UITTREDING</a></li>
