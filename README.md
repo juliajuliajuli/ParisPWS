@@ -114,6 +114,7 @@
     background-color: #006666;
     z-index: 9999;
     border: 0;
+    height: 20px;
     font-size: 12px !important;
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
@@ -141,7 +142,7 @@
   @media screen and (max-width: 768px) {
     .col-sm-4 {
       text-align: center;
-      margin: 15px 0;
+      margin: 25px 0;
     }
     .btn-lg {
       width: 100%;
