@@ -114,8 +114,7 @@
     background-color: #006666;
     z-index: 9999;
     border: 0;
-    height: 20px;
-    font-size: 12px !important;
+    font-size: 14px !important;
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
     border-radius: 0;
